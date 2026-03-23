@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pushpa Allu</h1>
-<h3 align="center">A passionate Data Analyst with a strong background in pharmacoinformatics and clinical data analysis,  AI Enthusiast</h3>
+<h3 align="center">A master student jn department of pharmacoinformatics with a strong background in computational nethods and clinical data analysis,  AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PushpaAllu21&label=Profile%20views&color=0e75b6&style=flat" alt="PushpaAllu21" /> </p>
 
 - 📫 How to reach me **pushpaallu210@gmail.com**
   
 # 💫 About Me:
-I’m a detail-oriented Data Analyst with a strong background in pharmacoinformatics and clinical data analysis. I enjoy transforming complex datasets into meaningful insights that support real-world decision-making. With hands-on experience in Python, SQL, Machine Learning and Power BI, I specialize in data cleaning, statistical analysis, and visualization.<br><br>My academic journey combines pharmacy and data science, allowing me to work effectively at the intersection of healthcare and analytics. I’ve worked on clinical datasets, including studies on gestational diabetes and congenital anomalies, where I applied biostatistics and research methodologies to derive actionable insights.
+I’m a detail-oriented Masters student in department of pharmacoinformatics with a strong background in computational methods like Docking, modelling, simulations as well as in AI and clinical data analysis. I enjoy transforming complex datasets into meaningful insights that support real-world decision-making. With hands-on experience in Python, SQL, Machine Learning and Power BI, I specialize in data cleaning, statistical analysis, and visualization.<br><br>My academic journey combines pharmacy and data science, allowing me to work effectively at the intersection of healthcare and analytics. I’ve worked on clinical datasets, including studies on gestational diabetes and congenital anomalies, where I applied biostatistics and research methodologies to derive actionable insights.
 
 
 ## 🌐 Socials:
