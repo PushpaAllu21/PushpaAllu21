@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushpa Allu</h1>
-<h3 align="center">A master student jn department of pharmacoinformatics with a strong background in computational nethods and clinical data analysis,  AI Enthusiast</h3>
+<h3 align="center">A Master student in department of pharmacoinformatics with a strong background in computational nethods and clinical data analysis,  AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PushpaAllu21&label=Profile%20views&color=0e75b6&style=flat" alt="PushpaAllu21" /> </p>
 
